@@ -1,0 +1,5 @@
+# Open putty
+# copy the public ip of instance & paste in hostname
+# Click on connection>SSH>Auth
+# Click on browse and find the ppk file 
+# Click on open
