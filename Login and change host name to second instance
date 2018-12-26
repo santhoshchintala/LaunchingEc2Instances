@@ -1,0 +1,8 @@
+# ubuntu commands
+# Login as ubuntu
+# sudo -i (root previlleges)
+# cd /etc/hostname
+# enter hostname MSR-test-Instance-1
+# press esc and wq
+# sudo hostname MSR-test-Instance-1
+# use command hostname to check hostname
